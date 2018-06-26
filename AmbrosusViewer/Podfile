@@ -1,6 +1,6 @@
 use_frameworks!
 
-target 'AmbrosusSDK_Example' do
+target 'AmbrosusViewer' do
   pod 'AmbrosusSDK', :path => '../'
 
   target 'AmbrosusSDK_Tests' do
